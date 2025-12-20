@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U https://raw.githubusercontent.com/tecotv2025/Epg/refs/heads/main/tr-guide.xml
 
  
 #EXTINF:0 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Ulusal",TRT 1 TR
