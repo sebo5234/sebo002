@@ -287,7 +287,7 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebiraz1.m3u8
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 3
-https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebirazb3.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS" tvg-language="Turkish" tvg-country="TR" tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 4
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs4.m3u8
@@ -300,6 +300,18 @@ https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm1.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS" , beIN SPORTS MAX 2
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebsm2.m3u8
+
+#EXTINF:0 ,Tivibu Spor 1
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivet1.m3u8
+
+#EXTINF:0 ,Tivibu Spor 2
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivet2.m3u8
+
+#EXTINF:0 ,Tivibu Spor 3
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivet3.m3u8
+
+#EXTINF:0 ,Exxen 
+https://andro.okan11gote12sokan.cfd/checklist/androstreamliveex1.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS" , CBC SPOR
 https://andro.okan11gote12sokan.cfd/checklist/androstreamlivecbcs.m3u8
