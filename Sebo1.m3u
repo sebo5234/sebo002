@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="061332c2-d69c-4605-a760-0e2a8274697c" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Ulusal",TRT 1 TR
-https://tv-trt1-esdai.medya.trt.com.tr/master_1080p.m3u8
+https://tv-trt1.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:1 tvg-id="02abd163-5c0a-444a-a035-cb6f45b4700a" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV TR
 http://89.187.191.41/ATV-HD-TR/tracks-v1a1/mono.m3u8
@@ -468,7 +468,7 @@ https://trt.daioncdn.net/trt-1/master_1440p.m3u8?app=web
 http://89.187.191.41/TV8-HD-TR/video.m3u8
 
 #EXTINF:1 group-title="Spor" , TRT 1 Medya
-https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
+https://tv-trt1-esdai.medya.trt.com.tr/master_1080p.m3u8
 
 #EXTINF:1 group-title="Spor" , TRT 1 YEDEK 89
 http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.m3u8
