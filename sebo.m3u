@@ -385,4 +385,108 @@ http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
 #EXTINF:0 group-title="Radyo" , Kafa Radyo
 https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
 
+#EXTINF:-1, kral fm
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+
+#EXTINF:-1, a haber radyo
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+
+#EXTINF:-1, a para radyo
+https://trkvz-radyolar.ercdn.net/apararadyo/playlist.m3u8
+
+
+#EXTINF:-1, a spor radyo
+https://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
+
+#EXTINF:-1, akra fm
+https://cdn3.akradyo.net/akracanli2/definst/livestream_aac/playlist.m3u8
+
+#EXTINF:-1, diyanet kuran meal radyo
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
+
+#EXTINF:-1, diyanet radyo
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
+
+#EXTINF:-1, diyanet risalet radyo
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8
+
+#EXTINF:-1, ankara havaları
+https://moondigitalmaster.radyotvonline.net/ankarahavalari/playlist.m3u8
+
+#EXTINF:-1, arabeskland radyo
+https://moondigitalmaster.radyotvonline.net/arabeskland/playlist.m3u8
+
+#EXTINF:-1, baba radyo
+https://babaradyo.turkhosted.com/best/babaradyo.stream/playlist.m3u8
+
+#EXTINF:-1, best fm
+http://37.247.100.100/best/bestfm.stream/playlist.m3u8
+
+#EXTINF:-1, radyo d
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+
+#EXTINF:-1, kafa radyo
+https://live.kafaradyo.com/radyoland/kafaradyo.stream/playlist.m3u8
+
+#EXTINF:-1, power türk
+https://listen.powerapp.com.tr/powerturktaptaze/abr/powerturktaptaze/128/playlist.m3u8
+
+#EXTINF:-1, radyo viva
+https://ssl4.radyotvonline.com/radyohome/radyovivahome.stream_aac/playlist.m3u8
+
+#EXTINF:-1, power vokal
+https://moondigitalmaster.radyotvonline.net/radyovokal/playlist.m3u8
+
+#EXTINF:-1, radyo 7
+https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
+
+#EXTINF:-1, radyo 7 arabesk
+https://moondigitaledge2.radyotvonline.net/radyo7arabesk/playlist.m3u8
+
+#EXTINF:-1, radyo 7 türkü
+https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8
+
+#EXTINF:-1, trt radyo 1
+https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:-1, trt radyo antalya
+https://radio-trtantalya.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1, trt türkiye'nin sesi radyosu
+https://radio-trttsr.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1, radyo spor
+https://wowza1.radyotvonline.com/saran/radyospor.stream/chunklist_w959732395.m3u8
+
+#EXTINF:-1, radyo fenerbahçe
+https://ssl4.radyotvonline.com/radyohome/radyofenerbahcehome.stream_aac/playlist.m3u8
+
+#EXTINF:-1, radyo trafik
+https://ssl4.radyotvonline.com/radyohome/radyotrafikhome.stream_aac/playlist.m3u8
+
+#EXTINF:-1, radyo gol
+https://wowza1.radyotvonline.com/unitedmedia/radyogol.stream/chunklist_w510741187.m3u8
+
+
+#EXTINF:-1, tgrt fm
+https://canli1.ihlasdigitalassets.com/tgrtfm.m3u8
+
+#EXTINF:-1, radyo turkuvaz
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/chunklist.m3u8
+
+#EXTINF:-1, turkuvaz anadolu
+https://trkvz-radyolar.ercdn.net/turkuvazanadolu/chunklist.m3u8
+
+#EXTINF:-1, turkuvaz efsane
+https://trkvz-radyolar.ercdn.net/turkuvazefsane/chunklist.m3u8
+
+#EXTINF:-1, turkuaz nostalji
+https://trkvz-radyolar.ercdn.net/turkuvaznostalji/chunklist.m3u8
+
+#EXTINF:-1, doksanlar fm
+https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8
+
+#EXTINF:-1, ege havaları
+https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
+
 
