@@ -523,15 +523,6 @@ https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 #EXTINF:1 group-title="Spor" , TRT 1 YEDEK 89
 http://89.187.191.41/TRT-1-HD-TR/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 group-title="Ulusal", Veliaht
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Veliaht.SON.mkv
-
-#EXTINF:0 group-title="Ulusal", Eşref Rüya 
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Esref.Ruya.SON.mkv
-
-#EXTINF: ,Yeraltı
-http://45.159.95.10:8880/STORE/DIZI.SON.BOLUMLER/Yeralti.SON.mkv
-
 #EXTINF:-1 ,NOW Tv Yedek
 https://b.xaomi.workers.dev/now
 
@@ -546,7 +537,6 @@ https://live.tecostream.xyz/CnnTurk.php
 
 #EXTINF:-1 ,Cnn Turk Yedek 2
 https://sweet-truth-729d.han686314.workers.dev/?url=https://helga.iptv2022.com/cnn_turk/index.m3u8
-
 https://boncuktvv.siringa-yetmedi.workers.dev/cnnt
 
 #EXTINF:-1 ,A Haber yedek 
