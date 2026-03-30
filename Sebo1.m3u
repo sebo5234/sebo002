@@ -180,12 +180,10 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
 #EXTINF:-1  tvg-id="A2.tr"  tvg-logo="https://i.ibb.co/2qrg9QF/a2022.png" group-title="Eğlence",A2 TV
-https://netspor.tecostream.xyz/a2.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 
 #EXTINF:-1  tvg-id="Teve2.tr"  tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="Eğlence", Teve 2
 http://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 
 #EXTINF:-1  tvg-id="ShowMax.tr" tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="Eğlence", Show Max
@@ -217,8 +215,8 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1  tvg-id="BabyTV.tr" group-title="cocuk cizgi",Baby Tv
 https://saran-live.ercdn.net/babytv/index.m3u8
 
-#EXTINF:-1  tvg-id="Cartoonito.tr" group-title="cocuk cizgi",Cartonito
-http://87.121.104.29:1796/cartoonnetworkyt/stream.m3u8
+#EXTINF:-1  tvg-id="Cartoonito.tr" group-title="cocuk cizgi",Coillou
+https://catcast.ismailturret.workers.dev/coillou.m3u8
 
 #EXTINF:0,MASA VE KOCA AYI
 https://catcast.ismailturret.workers.dev/b-kerimoff-masa-veayi.m3u8
