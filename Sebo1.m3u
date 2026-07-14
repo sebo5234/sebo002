@@ -4,17 +4,17 @@
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:1 tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" group-title="Ulusal", ATV 
-http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/2296/master.m3u8
+http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/2296/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="KanalD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/d7c5d3d5-2942-4715-872f-73be070dc201.png" group-title="Ulusal", Kanal D
-http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/2326/master.m3u8
+http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/2326/tracks-v1a1/mono.m3u8
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
 
 #EXTINF:1 tvg-id="StarTV.tr" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="Ulusal",Star TV
-http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/2301/master.m3u8
+http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/2301/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-id="ShowTV.tr" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Ulusal", Show TV
-http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/2307/master.m3u8
+http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/2307/tracks-v1a1/mono.m3u8
 http://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web
 
 #EXTINF:1 tvg-id="BEYAZTV.tr" tvg-logo="https://www.beyaztv.com.tr/images/logo.png" group-title="Ulusal", Beyaz TV
@@ -24,12 +24,12 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
 #EXTINF:1 tvg-id="TV8.tr" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Ulusal", TV 8
-http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/6896/master.m3u8
+http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/6896/tracks-v1a1/mono.m3u8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 
 
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Ulusal", Now TV
-http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/2309/master.m3u8
+http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/2309/tracks-v1a1/mono.m3u8
 https://yakala.atakann.workers.dev/?url=https://www.nowtv.com.tr/canli-yayin&ext=m3u8
  
 #EXTINF:1 tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="Haber", Ulke Tv
