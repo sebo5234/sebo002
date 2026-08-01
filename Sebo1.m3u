@@ -29,7 +29,6 @@ https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f294
 
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="ULUSAL", NOW TV
 http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/2309/master.m3u8
-https://yakala.atakann.workers.dev/?url=https://www.nowtv.com.tr/canli-yayin&ext=m3u8
  
 #EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="HABER", ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/master.m3u8
@@ -111,16 +110,16 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Movie.Smart.TURK.eno.png" group-title="SİNEMA",MOVIE SMART TÜRK 
 http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/6811/master.m3u8
 
-#EXTINF:-1  group-title="SİNEMA",BEIN SERIES 1
+#EXTINF:-1 group-title="SİNEMA",BEIN SERIES 1
 https://proud-river-e20b.pantonum1.workers.dev/bsseries1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/BeIN_MOVIES_Turk-HD.png" group-title="SİNEMA",BEIN MOVIES TURK
 https://proud-river-e20b.pantonum1.workers.dev/bsturk.m3u8
 
-#EXTINF:-1  group-title="SİNEMA",SİNEMA YERLİ
+#EXTINF:-1 group-title="SİNEMA",SİNEMA YERLİ
 http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=366&extension=m3u8
 
-#EXTINF:-1  group-title="SİNEMA",SİNEMA YERLİ2
+#EXTINF:-1 group-title="SİNEMA",SİNEMA YERLİ2
 http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=367&extension=m3u8
 
 #EXTINF:0  tvg-id="MovieSmartTurk.tr" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/Movie.Smart.TURK.eno.png" group-title="SİNEMA",MV TURK VS CLASSIC
@@ -134,14 +133,12 @@ http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/6807/index.m3u8
 
 #EXTINF:-1 group-title="SİNEMA",ŞABAN TV
 http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
-http://cineplus-yesilcam.supersatadmin.workers.dev/index.m3u8
 
 #EXTINF:-1, group-title="SİNEMA", UZMAN FİLM
 http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/6872/index.m3u8
 
 #EXTINF:-1 group-title="SİNEMA",YEŞILÇAM TV
 https://catcast.ismailturret.workers.dev/ksunal.m3u8
-https://cdn.tecostream.xyz/Yesilcam_Tv.m3u8arzum
 
 #EXTINF:-1 group-title="SİNEMA",YEŞİLÇAM 2
 https://catcast.ismailturret.workers.dev/fanatikmaxyesilcam.m3u8
@@ -164,14 +161,12 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 
 #EXTINF:-1  tvg-id="Teve2.tr"  tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="EĞLENCE", TEVE 2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
-http://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 
 #EXTINF:-1  tvg-id="ShowMax.tr" tvg-logo="https://i.ibb.co/kxjKk89/showmax.png" group-title="EĞLENCE", SHOW MAX
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
 
 #EXTINF:-1 tvg-id="TV8,5.tr"  tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png" group-title="EĞLENCE", TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web
-https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 
 #EXTINF:-1  tvg-id="TRTÇocuk.tr" tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="ÇOCUK", TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
@@ -194,7 +189,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 
 #EXTINF:-1  tvg-id="DisneyJunior.tr" tvg-logo="https://www.msemporium.de/disney-portal/fileadmin/bilder/teaser/streaming-tv/disney-junior.png" group-title="ÇOCUK",DİSNEY JR
 http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/6842/index.m3u8
-https://saran-live.ercdn.net/disneyjunior/index.m3u8
+
 #EXTINF:-1, group-title="ÇOCUK", NİCK JR.
 http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/6847/index.m3u8
 
@@ -203,7 +198,7 @@ http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/6848/index.m3u8
 
 #EXTINF:-1  tvg-id="BabyTV.tr" group-title="ÇOCUK",BABY TV
 http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/6845/index.m3u8
-https://saran-live.ercdn.net/babytv/index.m3u8
+
 
 #EXTINF:-1  tvg-id="Cartoonito.tr" group-title="ÇOCUK",CARTONITO
 http://0e770a63.ucomist.net/iptv/3HYPASK67VVUSL/6850/index.m3u8
