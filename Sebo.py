@@ -12,7 +12,7 @@ HEADERS = {
 }
 
 # --- KLASÖR ADI ---
-OUTPUT_FOLDER = "yula"
+OUTPUT_FOLDER = "sebo"
 
 # --- SABİT M3U8 BAŞLIĞI ---
 M3U8_HEADER = """#EXTM3U
@@ -116,7 +116,7 @@ def main():
             # Dosya İçeriği
             file_content = f"{M3U8_HEADER}\n{m3u8_url}"
             
-            # Dosya Yolu (yula/ceydub1.m3u8)
+            # Dosya Yolu (sebo/ceydub1.m3u8)
             file_path = os.path.join(OUTPUT_FOLDER, f"{file_name}.m3u8")
             
             with open(file_path, "w", encoding="utf-8") as f:
